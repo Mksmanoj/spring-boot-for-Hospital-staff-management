@@ -1,0 +1,2 @@
+# spring-boot for Hospital management staff
+  a web-app using java spring-boot for Hospital management staff.  Create REST APIs to implement below functionalities : 1. Hospital staff to signup / login into portal. 2. Admit new patient with atleast below details:  a. name, age, room, doctor name, admit date, expenses, status(admitted, discharged) 3. Fetch all patient admitted in hospital. 4. Discharge patient from hospital
